@@ -6,7 +6,14 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mutual Fund Comparison</title>
+      <link>http://localhost:1313/posts/mutual-fund-comparison/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mutual-fund-comparison/</guid>
+      <description>Mutual Fund A Features: Diversified portfolio, professional management Fees: 1.5% annual Performance: 10% average annual return over 5 years Risk Level: Moderate User Rating: 4.5/5 Learn More Mutual Fund B Features: Low-cost index fund Fees: 0.2% annual Performance: 8% average annual return over 5 years Risk Level: Low User Rating: 4.2/5 Learn More </description>
+    </item>
   </channel>
 </rss>
